@@ -16,7 +16,7 @@ class ImagesLoadedAsset extends AssetBundle
     public $css = [];
     
     public $js = [
-            'imagesloaded.pkgd.min.js'
+            'jquery.imagesloaded.min.js'
     ];
 
     public $depends = array(
